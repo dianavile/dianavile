@@ -51,9 +51,8 @@ Responsible for mobile and desktop design and content.
 https://www.icuida.barcelona/
 
 ### Mentor @TipsCool (2020)
-
+[Tipscool](https://www.tipscool.com/).
 Since May, I mentor professionals interested in working in the IT sector on a Monthly base. Basically by sharing my working experience in the IT Sector and solving their doubts and questions regarding UX Design, Front-end Web development and Digital Marketing.
-https://www.tipscool.com/
 
 ### Mentor @TechnovationGirls Catalunya (2020)
 
