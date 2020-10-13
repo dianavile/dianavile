@@ -86,7 +86,7 @@ In 2008 I moved to Barcelona, Spain and have been working for several Dutch and 
 
 ## Education :books:
 
-### IT Academy @]()[Barcelona Activa/Cybernarium](https://cibernarium.barcelonactiva.cat/es/it-academy) (2020)
+### IT Academy @[Barcelona Activa/Cybernarium](https://cibernarium.barcelonactiva.cat/es/it-academy) (2020)
 In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, all material is online & inhouse.
 Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript.
 
