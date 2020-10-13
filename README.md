@@ -77,7 +77,7 @@ I was responsible for prototyping, responsive Web Design and Coding in React. Th
 ### SEO & Online marketeer employee @[All Women](https://allwomen.tech) (2018)
 In Autum 2018, I helped out the startup Tech education school for women, All Women with improvements of their website, mainly related to online marketing, content creation and SEO. I also set up their Google Analytics Account.
 
-### Senior WebMaster and Online Marketeer @Active24, a Visma Company (2013-2018)
+### Senior WebMaster and Online Marketeer @[Active24](https://www.active24.nl/), a [Visma Company](https://www.visma.com/)(2013-2018)
 In Spring 2013, I started as a customer service support employee at a European Internet Service Provider (ISP). After an internal sollicitation, I quickly moved into the Marketing department, being responsible for Content creating, Social Media, localization of New Products and SEO.
 
 ### Freelance journalist-founder @Diana Vilé I Journalist in Spain (2006 - 2015)
@@ -86,23 +86,15 @@ In 2008 I moved to Barcelona, Spain and have been working for several Dutch and 
 
 ## Education :books:
 
-### IT Academy @Barcelona Activa/Cybernarium (2020)
-
-In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, all class material is online & inhouse.
+### IT Academy @]()[Barcelona Activa/Cybernarium](https://cibernarium.barcelonactiva.cat/es/it-academy) (2020)
+In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, all material is online & inhouse.
 Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript.
-https://cibernarium.barcelonactiva.cat/es/it-academy
 
-### UX Designer Nanodegree @Udacity (2020)
-
+### UX Designer Nanodegree @[Udacity](https://www.udacity.com/course/ux-designer-nanodegree--nd578) (2020)
 During the 3 month Nanodegree in UX Design, I gained insights in User Research, User Experience, Wireframing,Prototyping, Interactive Design, User Interface Design & Usability Testing. And created 4 UX projects.
-https://www.udacity.com/course/ux-designer-nanodegree--nd578
 
-### Digital Marketing Nanodegree Program @Udacity (2019)
-
+### Digital Marketing Nanodegree Program @[Udacity](https://www.udacity.com/course/digital-marketing-nanodegree--nd018) (2019)
 During the 4-month Nanodegree in Digital Marketing, I gained real-world experience running live campaigns. And learned from top experts (Facebook, Google, Hootsuite, HubSpot, MailChimp, Moz) with a 360-degree understanding of digital marketing.
-https://www.udacity.com/course/digital-marketing-nanodegree--nd018
 
-### Front-end Web Developer Digital Nanodegree Program @Udacity (2018-2019)
-
+### Front-end Web Developer Digital Nanodegree Program @[Udacity](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) (2018-2019)
 I won a full Google scholarshipgrant to attend the Front-end Web Developer Digital Nanodegree Program @ Udacity. In several months, I learned how to build high quality websites and dynamic applications to create a satisfying user experiences for the web. At that time, creating Progressive Web Applications in React was part of the program.
-https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
