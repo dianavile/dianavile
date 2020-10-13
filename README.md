@@ -45,7 +45,7 @@
 <br />
  
 ## Experience: :gem: 
-### UX/UI consultor @iCuida (2020)
+### UX/UI consultor @iCuida (2020)- work in progress
 Currently re-designing the MVP iCuida into a fully functioning digital product, together with a Project Manager, UX/UI designer and Fullstack web developer.
 Responsible for mobile and desktop design and content.
 https://www.icuida.barcelona/
