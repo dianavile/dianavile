@@ -3,7 +3,7 @@
 - :computer: I'm a freelance Frontend Web Developer.
 - :heart: I love to code, design prototypes, build websites and web applications.
 - :pencil: I enjoy [writing about coding](https://medium.com/@diana.vile).
-- :electric_plug: **My GOAL: work as a professional Front-end Developer in a vibrant Tech company in Barcelona**.
+- :electric_plug: **My GOAL: work as a professional Front-end Developer in a vibrant Tech company in Barcelona in 2020-2021**.
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 - :camera: Experience 10+ years in Digital Marketing (SEO,Content Management) & TV-Journalism.
