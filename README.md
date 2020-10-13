@@ -16,7 +16,7 @@
 - :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
 
 
-### I´m using the following languages and Tools:
+### I´m using and improving in the following languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
@@ -122,20 +122,3 @@ https://www.udacity.com/course/digital-marketing-nanodegree--nd018
 
 I won a full Google scholarshipgrant to attend the Front-end Web Developer Digital Nanodegree Program @ Udacity. In several months, I learned how to build high quality websites and dynamic applications to create a satisfying user experiences for the web. At that time, creating Progressive Web Applications in React was part of the program.
 https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
-
-
-
-<!--
-**dianavile/dianavile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Javascript and React.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
