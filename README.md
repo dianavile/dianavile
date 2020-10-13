@@ -15,7 +15,6 @@
 - :bicyclist: You can find me biking on a foldable bike, drinking a Chai Latte or Café con Leche and walking in nature.
 - :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
 
-<br />
 
 ### I´m using the following languages and Tools:
 
