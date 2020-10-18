@@ -32,6 +32,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
+<Br/>
 
 ### Contact me on:
 
@@ -45,8 +46,8 @@
 <br />
  
 ## Experience: :gem: 
-### UX/UI consultor @[iCuida](https://www.icuida.barcelona/) (2020)- work in progress
-Currently re-designing the MVP iCuida into a fully functioning digital product, together with a Project Manager, UX/UI designer and Fullstack web developer.
+### UX/UI consultor @[iCuida](https://www.icuida.barcelona/) (2020)
+Re-designing the MVP iCuida into a fully functioning digital product, together with a Project Manager, UX/UI designer and Fullstack web developer.
 Responsible for mobile and desktop design and content.
 
 ### Mentor @[Tipscool](https://www.tipscool.com/) (2020)
