@@ -103,9 +103,11 @@ I was responsible for prototyping, responsive Web Design and Coding in React. Th
 ### Freelance journalist-founder @Diana Vilé I Journalist in Spain (2006 - 2015)
 :gem: After graduation with distinction from Communication Science, I started working as a Freelance Journalist, combining online articles about Current Society Debates in ArtHouse Lux with TV journalism, prsenting, camerawork and editing of televisionnews items for Nijmegen1, the local TV station of the city Nijmegen.
 In 2008 I moved to Barcelona, Spain and have been working for several Dutch and Spanish online Media. I also wrote and published three books between 2010-2018.
+</details>
 
-## :books: Education 
-
+<details>
+  <summary>:zap: :books: Education </summary>
+ 
 ### IT Academy @[Barcelona Activa/Cibernarium](https://cibernarium.barcelonactiva.cat/es/it-academy) (2020)
  :books: In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, all material is online & partly inhouse. Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript.
 
