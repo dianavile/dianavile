@@ -16,7 +16,7 @@
 - :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
 
 
-### I´m using and improving in the following languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
@@ -31,9 +31,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<Br/>
-
+ ---
+ 
 ### Contact me on:
 
 [<img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -41,11 +40,31 @@
 
 [linkedin]: https://www.linkedin.com/in/dianavile/
 [medium]: https://medium.com/@diana.vile
+ ---
+### 📕 Latest Blog Posts
 
-<br />
-<br />
- 
-## Experience: :gem: 
+<!-- BLOG-POST-LIST:START -->
+- [Air signals and marine cables](https://medium.com/@diana.vile/air-signals-and-marine-cables-b83cf6f59c31)
+- [CSS the Style of websites](https://medium.com/@diana.vile/css-the-style-of-websites-4294dfddfd97)
+- [HTML the structure of websites](https://medium.com/@diana.vile/html-the-structure-of-websites-a5ee03ef1bf0)
+- [Webbrowser. behind the scenes](https://medium.com/@diana.vile/web-browser-behind-the-scenes-806251dbb67d)
+- [Everyday routines to explain algorithms flowcharts](https://medium.com/@diana.vile/everyday-routines-to-explain-algorithms-flowcharts-1b17a4415023)
+- [Let´s GIT it on- Git commands](https://medium.com/@diana.vile/let-s-git-it-on-why-you-need-to-know-version-control-as-a-software-developer-git-commands-ec9ecbc75dd4)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@diana.vile)
+
+ ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="dianavile's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dianavile&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Experience: :gem: </summary>
+
 ### UX/UI consultor @[iCuida](https://www.icuida.barcelona/) (2020)
 Re-designing the MVP iCuida into a fully functioning digital product, together with a Project Manager, UX/UI designer and Fullstack web developer.
 Responsible for mobile and desktop design and content.
@@ -98,3 +117,4 @@ During the 4-month Nanodegree in Digital Marketing, I gained real-world experien
 
 ### Front-end Web Developer Digital Nanodegree Program @[Udacity](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) (2018-2019)
 I won a full Google scholarshipgrant to attend the Front-end Web Developer Digital Nanodegree Program @ Udacity. In several months, I learned how to build high quality websites and dynamic applications to create a satisfying user experiences for the web. At that time, creating Progressive Web Applications in React was part of the program.
+</details>
