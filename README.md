@@ -107,14 +107,14 @@ In 2008 I moved to Barcelona, Spain and have been working for several Dutch and 
 ## :books: Education 
 
 ### IT Academy @[Barcelona Activa/Cibernarium](https://cibernarium.barcelonactiva.cat/es/it-academy) (2020)
-In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, all material is online & partly inhouse. Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript.
+ :books: In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, all material is online & partly inhouse. Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript.
 
 ### UX Designer Nanodegree @[Udacity](https://www.udacity.com/course/ux-designer-nanodegree--nd578) (2020)
-During the 3 month Nanodegree in UX Design, I gained insights in User Research, User Experience, Wireframing,Prototyping, Interactive Design, User Interface Design & Usability Testing. And created 4 UX projects.
+ :books: During the 3 month Nanodegree in UX Design, I gained insights in User Research, User Experience, Wireframing,Prototyping, Interactive Design, User Interface Design & Usability Testing. And created 4 UX projects.
 
 ### Digital Marketing Nanodegree Program @[Udacity](https://www.udacity.com/course/digital-marketing-nanodegree--nd018) (2019)
-During the 4-month Nanodegree in Digital Marketing, I gained real-world experience running live campaigns. And learned from top experts (Facebook, Google, Hootsuite, HubSpot, MailChimp, Moz) with a 360-degree understanding of digital marketing.
+ :books: During the 4-month Nanodegree in Digital Marketing, I gained real-world experience running live campaigns. And learned from top experts (Facebook, Google, Hootsuite, HubSpot, MailChimp, Moz) with a 360-degree understanding of digital marketing.
 
 ### Front-end Web Developer Digital Nanodegree Program @[Udacity](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) (2018-2019)
-I won a full Google scholarshipgrant to attend the Front-end Web Developer Digital Nanodegree Program @ Udacity. In several months, I learned how to build high quality websites and dynamic applications to create a satisfying user experiences for the web. At that time, creating Progressive Web Applications in React was part of the program.
+ :books: I won a full Google scholarshipgrant to attend the Front-end Web Developer Digital Nanodegree Program @ Udacity. In several months, I learned how to build high quality websites and dynamic applications to create a satisfying user experiences for the web. At that time, creating Progressive Web Applications in React was part of the program.
 </details>
