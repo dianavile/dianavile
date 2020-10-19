@@ -63,48 +63,48 @@
 </details>
 
 <details>
-  <summary>:zap: Experience: :gem: </summary>
+  <summary>:zap: :gem:Experience: </summary>
 
 ### UX/UI consultor @[iCuida](https://www.icuida.barcelona/) (2020)
-Re-designing the MVP iCuida into a fully functioning digital product, together with a Project Manager, UX/UI designer and Fullstack web developer.
+:gem: Re-designing the MVP iCuida into a fully functioning digital product, together with a Project Manager, UX/UI designer and Fullstack web developer.
 Responsible for mobile and desktop design and content.
 
 ### Mentor @[Tipscool](https://www.tipscool.com/) (2020)
-Since May, I mentor professionals interested in working in the IT sector on a Monthly base. Basically by sharing my working experience in the IT Sector and solving their doubts and questions regarding UX Design, Front-end Web development and Digital Marketing.
+:gem: Since May, I mentor professionals interested in working in the IT sector on a Monthly base. Basically by sharing my working experience in the IT Sector and solving their doubts and questions regarding UX Design, Front-end Web development and Digital Marketing.
 
 ### Mentor @[TechnovationGirls Catalunya](https://technovationchallenge.org/) (2020)
-Between January and May I helped a junior team of 5 girls in the age of 10-13 years creating a web application from idea untill Minimal Viable Project (MVP).
+:gem: Between January and May I helped a junior team of 5 girls in the age of 10-13 years creating a web application from idea untill Minimal Viable Project (MVP).
 The results were presented in an online meetup with around 60 teams all over Catalunya.
 
 ### Founder of @All Digital Agency (2019-today)- website in progress
-Since the end of 2018, I work on IT-projects, while constantly learning to keep up with the lastest trends in UX design and Web development. This resulted in september 2019 into my own Company "All Digital Agency".
+:gem: Since the end of 2018, I work on IT-projects, while constantly learning to keep up with the lastest trends in UX design and Web development. This resulted in september 2019 into my own Company "All Digital Agency".
 
 ### Front-end developer [@Proyecto EQUAL](https://projecte-equal.com/)(2019-2020)
-I worked as a freelance web developer for Iniciativa Barcelona Open Data.
+:gem: I worked as a freelance web developer for Iniciativa Barcelona Open Data.
 They provide pricing analytics for the sea freight industry. I worked on the customer-facing app, and mainly with HTML5, CSS and a bit of JavaScript.
 The presentation of the project was held on 9th of March at Barcelona Innoba Center in the 22@ district.
 
 ### Front-end developer @[MEETOPTICS](https://www.meetoptics.com/) (2019)
-In the summer of 2019 I started to work at MEETOPTICS as a freelance web developer at the University Politecnica Catalunya (UPC Empren).
+:gem: In the summer of 2019 I started to work at MEETOPTICS as a freelance web developer at the University Politecnica Catalunya (UPC Empren).
 MEETOPTICS is a highly customisable search engine made especially for researchers and optical engineers in photonics.
 I created their Landing, Login, Infopages, with Services and Productdescriptions in HTML, CSS and Vue.js and some basic web scraping in Python.
 
 ### Front-end developer @Hackathon DadesxDones- [iCuida-MVP](https://icuida.com/) (2019)
-In Spring 2019, I was part of the winning team of a Hackathon from DadesXDones, in collaboration with Iniciativa Barcelona Open Data.
+:gem: In Spring 2019, I was part of the winning team of a Hackathon from DadesXDones, in collaboration with Iniciativa Barcelona Open Data.
 With a team of three, we pitched an IDEA and created an Minimal Viable Product (MVP), a Progressive Web App project iCuida (Social Services).
 I was responsible for prototyping, responsive Web Design and Coding in React. The presentation of the project was held on 10th of July at Cybernarium Espai Barcelona in the 22@ district.
 
 ### SEO & Online marketeer employee @[All Women](https://allwomen.tech) (2018)
-In Autum 2018, I helped out the startup Tech education school for women, All Women with improvements of their website, mainly related to online marketing, content creation and SEO. I also set up their Google Analytics Account.
+:gem: In Autum 2018, I helped out the startup Tech education school for women, All Women with improvements of their website, mainly related to online marketing, content creation and SEO. I also set up their Google Analytics Account.
 
 ### Senior WebMaster and Online Marketeer @[Active24](https://www.active24.nl/), a [Visma Company](https://www.visma.com/)(2013-2018)
-In Spring 2013, I started as a customer service support employee at a European Internet Service Provider (ISP). After an internal sollicitation, I quickly moved into the Marketing department, being responsible for Content creating, Social Media, localization of New Products and SEO.
+:gem: In Spring 2013, I started as a customer service support employee at a European Internet Service Provider (ISP). After an internal sollicitation, I quickly moved into the Marketing department, being responsible for Content creating, Social Media, localization of New Products and SEO.
 
 ### Freelance journalist-founder @Diana Vilé I Journalist in Spain (2006 - 2015)
-After graduation with distinction from Communication Science, I started working as a Freelance Journalist, combining online articles about Current Society Debates in ArtHouse Lux with TV journalism, prsenting, camerawork and editing of televisionnews items for Nijmegen1, the local TV station of the city Nijmegen.
+:gem: After graduation with distinction from Communication Science, I started working as a Freelance Journalist, combining online articles about Current Society Debates in ArtHouse Lux with TV journalism, prsenting, camerawork and editing of televisionnews items for Nijmegen1, the local TV station of the city Nijmegen.
 In 2008 I moved to Barcelona, Spain and have been working for several Dutch and Spanish online Media. I also wrote and published three books between 2010-2018.
 
-## Education :books:
+## :books: Education 
 
 ### IT Academy @[Barcelona Activa/Cibernarium](https://cibernarium.barcelonactiva.cat/es/it-academy) (2020)
 In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, all material is online & partly inhouse. Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript.
