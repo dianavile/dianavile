@@ -40,7 +40,7 @@
 
 [linkedin]: https://www.linkedin.com/in/dianavile/
 [medium]: https://medium.com/@diana.vile
- ---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@diana.vile)
- ---
+
 <details>
   <summary>:zap: GitHub Stats 📊</summary>
 
