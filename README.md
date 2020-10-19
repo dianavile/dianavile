@@ -1,7 +1,5 @@
 ### Hi :raising_hand: I'm Diana Vilé
 
-[![Website](https://img.shields.io/website?label=&style=for-the-badge&url=https%3A%2F%2F)](url)
-
 - :computer: I'm a freelance Frontend Web Developer.
 - :heart: I love to design prototypes, code, build websites and web applications.
 - :pencil: I enjoy [writing about coding](https://medium.com/@diana.vile).
