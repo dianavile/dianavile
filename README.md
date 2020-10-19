@@ -56,14 +56,14 @@
 
  ---
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats 📊</summary>
 
   <img align="left" alt="dianavile's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dianavile&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
-  <summary>:zap: :gem:Experience: </summary>
+  <summary>:zap: Experience: :gem: </summary>
 
 ### UX/UI consultor @[iCuida](https://www.icuida.barcelona/) (2020)
 :gem: Re-designing the MVP iCuida into a fully functioning digital product, together with a Project Manager, UX/UI designer and Fullstack web developer.
@@ -106,7 +106,7 @@ In 2008 I moved to Barcelona, Spain and have been working for several Dutch and 
 </details>
 
 <details>
-  <summary>:zap: :books: Education </summary>
+  <summary>:zap: Education :books: </summary>
  
 ### IT Academy @[Barcelona Activa/Cibernarium](https://cibernarium.barcelonactiva.cat/es/it-academy) (2020)
  :books: In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, all material is online & partly inhouse. Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript.
