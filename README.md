@@ -14,7 +14,7 @@
 - :clapper: I like to visit musea, cinema and anything cultural.
 - :bicyclist: You can find me biking on a foldable bike, drinking a Chai Latte or Café con Leche and walking in nature.
 - :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
-
+---
 
 ### Languages and Tools:
 
@@ -40,6 +40,8 @@
 
 [linkedin]: https://www.linkedin.com/in/dianavile/
 [medium]: https://medium.com/@diana.vile
+ ---
+ 
 
 ### 📕 Latest Blog Posts
 
@@ -54,12 +56,9 @@
 
 ➡️ [more blog posts...](https://medium.com/@diana.vile)
 
-<details>
-  <summary>:zap: GitHub Stats 📊</summary>
 
   <img align="left" alt="dianavile's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dianavile&show_icons=true&hide_border=true" />
 
-</details>
 
 <details>
   <summary>:zap: Experience: :gem: </summary>
