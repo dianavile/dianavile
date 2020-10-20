@@ -118,5 +118,5 @@ In 2008 I moved to Barcelona, Spain and have been working for several Dutch and 
  :books: During the 4-month Nanodegree in Digital Marketing, I gained real-world experience running live campaigns. And learned from top experts (Facebook, Google, Hootsuite, HubSpot, MailChimp, Moz) with a 360-degree understanding of digital marketing.
 
 ### Front-end Web Developer Digital Nanodegree Program @[Udacity](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) (2018-2019)
- :books: I won a full Google scholarshipgrant to attend the Front-end Web Developer Digital Nanodegree Program @ Udacity. In several months, I learned how to build high quality websites and dynamic applications to create a satisfying user experiences for the web. At that time, creating Progressive Web Applications in React was part of the program.
+ :books: I won a full Google scholarshipgrant to attend the Front-end Web Developer Digital Nanodegree Program @ Udacity. In eight months, I learned how to build high quality websites and dynamic applications to create a satisfying user experiences for the web. At that time, creating Progressive Web Applications in React was part of the program.
 </details>
