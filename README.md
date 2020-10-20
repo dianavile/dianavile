@@ -40,6 +40,7 @@
 
 [linkedin]: https://www.linkedin.com/in/dianavile/
 [medium]: https://medium.com/@diana.vile
+<br>
 
 ---
  
