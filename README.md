@@ -109,7 +109,7 @@ In 2008 I moved to Barcelona, Spain and have been working for several Dutch and 
   <summary>:zap: Education :books: </summary>
  
 ### IT Academy @[Barcelona Activa/Cibernarium](https://cibernarium.barcelonactiva.cat/es/it-academy) (2020)
- :books: In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, all material is online & partly inhouse. Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript.
+ :books: In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, the course if fully remote. We did create a studygroup to practice and do have some work together projects. Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript.
 
 ### UX Designer Nanodegree @[Udacity](https://www.udacity.com/course/ux-designer-nanodegree--nd578) (2020)
  :books: During the 3 month Nanodegree in UX Design, I gained insights in User Research, User Experience, Wireframing,Prototyping, Interactive Design, User Interface Design & Usability Testing. And created 4 UX projects.
