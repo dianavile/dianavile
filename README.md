@@ -12,7 +12,7 @@
 ### Sparetime: :parrot:
 
 - :clapper: I like to visit musea, cinema and anything cultural.
-- :bicyclist: You can find me biking on a foldable bike, drinking a Chai Latte or Café con Leche and walking in nature.
+- :bicyclist: You can find me biking on a foldable bike, drinking a Chai Latte/Café con Leche and walking in nature.
 - :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
 ---
 
