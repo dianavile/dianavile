@@ -1,6 +1,6 @@
 ### Hi :raising_hand: I'm Diana Vilé
 
-- :computer: I'm a freelance Frontend Web Developer.
+- :computer: I'm a freelance Frontend Web Developer with love for UX/UI design.
 - :heart: I love to design prototypes, code, build websites and web applications.
 - :pencil: I enjoy [writing about coding](https://medium.com/@diana.vile).
 - :electric_plug: **My GOAL: work as a professional UX Engineer/Front-end Developer in a vibrant Tech company in Barcelona**.
