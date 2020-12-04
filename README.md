@@ -36,7 +36,7 @@
 
 ### On My TODO list:
 - PHP
-- SQL
+- FIREBASE
 - NODE.js
 - EXPRESS.js
 
