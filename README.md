@@ -12,7 +12,7 @@
 ### Sparetime: :parrot:
 
 - :clapper: I like to visit musea, cinema and anything cultural.
-- :bicyclist: You can find me biking on a foldable bike, drinking a Chai Latte/Café con Leche and walking in nature.
+- :bicyclist: You can find me biking on a foldable bike, drinking a Chai Latte and walking in nature.
 - :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
 ---
 
@@ -34,11 +34,6 @@
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 ---
 
-### On My TODO list:
-- PHP
-- FIREBASE
-- EXPRESS.js
-
 ### Contact me on:
 
 [<img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -49,7 +44,6 @@
 <br>
 
 ---
- 
 
 ### 📕 Latest Blog Posts
 
@@ -64,9 +58,7 @@
 
 ➡️ [more blog posts...](https://medium.com/@diana.vile)
 
-
   <img align="left" alt="dianavile's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dianavile&show_icons=true&hide_border=true" />
-
 
 <details>
   <summary>:zap: Experience: :gem: </summary>
