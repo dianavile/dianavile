@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋, I'm Diana Vilé</h1>
 <h3 align="center">💻 A passionate Content Marketing Developer from Barcelona, Spain</h3>
 
-- 🔭 I’m currently working on my **portfolio**
+- 🔭 I’m currently working on my ** <a href="https://github.com/dianavile/AllDigitalAgency" target="_blank">portfolio  </a> **
 - :heart: I love to design prototypes, code, build websites and web applications.
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
