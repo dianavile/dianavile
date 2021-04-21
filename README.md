@@ -1,6 +1,8 @@
 <h1 align="center">Hi 🙋, I'm Diana Vilé</h1>
 <h3 align="center">💻 A passionate Content Marketing Developer from Barcelona, Spain</h3>
 
+### Contact me on:<a href="https://www.linkedin.com/in/dianavile/" target="_blank"> <img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://medium.com/@diana.vile" target="_blank"> <img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a><a href="https://codesandbox.io/u/dianavile" target="_blank"><img align="left" alt="dianavile | CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a><a href="https://dribbble.com/dianavile" target="_blank"><img align="left" alt="dianavile | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/></a>
+---
 - 🔭 I’m currently working on my <a href="https://github.com/dianavile/AllDigitalAgency" target="_blank">portfolio</a>. 
 - :heart: I love to design prototypes, code, build websites and web applications.
 - :octocat: I am open to collaborate with other digital content creators.
@@ -27,13 +29,6 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p> 
  
-### Contact me on:
- <a href="https://www.linkedin.com/in/dianavile/" target="_blank"> <img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
- <a href="https://medium.com/@diana.vile" target="_blank"> <img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
- <a href="https://codesandbox.io/u/dianavile" target="_blank"><img align="left" alt="dianavile | CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a>
- <a href="https://dribbble.com/dianavile" target="_blank"><img align="left" alt="dianavile | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/></a>
----
-
 ###  :pencil: Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Air signals and marine cables](https://medium.com/@diana.vile/air-signals-and-marine-cables-b83cf6f59c31)
