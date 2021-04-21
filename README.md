@@ -37,11 +37,6 @@
 [medium]: https://medium.com/@diana.vile
 [codesandbox]: https://codesandbox.io/u/dianavile
 [Dribbble.com]:(https://dribbble.com/dianavile)
-### Sparetime: :parrot:
-- :clapper: I like to visit anything cultural.
-- :bicyclist: You can find me biking on a foldable bike, drinking a Chai Latte and walking in nature.
-- :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
----
 
 ###  :pencil: Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -54,6 +49,11 @@
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://medium.com/@diana.vile)
 
+### Sparetime: :parrot:
+- :clapper: I like to visit anything cultural.
+- :bicyclist: You can find me biking on a foldable bike, drinking a Chai Latte and walking in nature.
+- :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
+---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianavile&show_icons=true&locale=en&layout=compact" alt="dianavile" /></p>
 <p><img align="left" alt="dianavile's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dianavile&show_icons=true&hide_border=true" /></p>
 
