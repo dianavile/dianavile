@@ -1,24 +1,31 @@
 <h1 align="center">Hi 🙋, I'm Diana Vilé</h1>
 <h3 align="center">💻 A passionate Content Marketing Developer from Barcelona, Spain</h3>
 
-- 🔭 I’m currently working on **portfolio**
+- 🔭 I’m currently working on my **portfolio**
 - :heart: I love to design prototypes, code, build websites and web applications.
-- :pencil: I enjoy [writing about coding](https://medium.com/@diana.vile).
-- :electric_plug: **My GOAL: work as a professional UX Engineer/Front-end Developer in a vibrant Tech company in Barcelona**.
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 - :camera: Experience 10+ years in Digital Marketing (SEO,Content Management) & TV-Journalism.
 - :gem: Communications Science (Master), TV-reporting (Postdoc), webdevelopment, UX Design and Digital Marketing (Nanodegree).
 
-### Sparetime: :parrot:
+### Contact me on:
+[<img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+[<img align="left" alt="dianavile |CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/>][codesandbox]
+[<img align="left" alt="dianavile |Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/>][Dribble]
 
-- :clapper: I like to visit musea, cinema and anything cultural.
+[linkedin]: https://www.linkedin.com/in/dianavile/
+[medium]: https://medium.com/@diana.vile
+[codesandbox]: https://codesandbox.io/u/dianavile
+[Dribbble.com]: https://dribbble.com/dianavile
+
+### Sparetime: :parrot:
+- :clapper: I like to visit anything cultural.
 - :bicyclist: You can find me biking on a foldable bike, drinking a Chai Latte and walking in nature.
 - :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
 ---
 
 ### Languages and Tools:
-
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
 <img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -33,26 +40,10 @@
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
----
 
-### Contact me on:
-
-[<img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
-[<img align="left" alt="dianavile |CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/>][codesandbox]
-[<img align="left" alt="dianavile |Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Social/dribbble.svg"/>][Dribble]
-  
-[linkedin]: https://www.linkedin.com/in/dianavile/
-[medium]: https://medium.com/@diana.vile
-[codesandbox]: https://codesandbox.io/u/dianavile
-[dribbble.com]: https://dribbble.com/https://dribbble.com/dianavile
-
-<br>
-
----
 
 ### 📕 Blog Posts
-
+- :pencil: I enjoy [writing about coding](https://medium.com/@diana.vile).
 <!-- BLOG-POST-LIST:START -->
 - [Air signals and marine cables](https://medium.com/@diana.vile/air-signals-and-marine-cables-b83cf6f59c31)
 - [CSS the Style of websites](https://medium.com/@diana.vile/css-the-style-of-websites-4294dfddfd97)
@@ -63,10 +54,11 @@
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://medium.com/@diana.vile)
 
-  <img align="left" alt="dianavile's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dianavile&show_icons=true&hide_border=true" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianavile&show_icons=true&locale=en&layout=compact" alt="dianavile" /></p>
+<p><img align="left" alt="dianavile's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dianavile&show_icons=true&hide_border=true" /></p>
 
 <details>
-  <summary>:zap: Experience: :gem: </summary>
+  <summary> Experience: :gem: </summary>
 
 ### UX/UI consultor @[iCuida](https://www.icuida.barcelona/) (2020)
 :gem: Re-designing the MVP iCuida into a fully functioning digital product, together with a Project Manager, UX/UI designer and Fullstack web developer.
@@ -109,7 +101,7 @@ In 2008 I moved to Barcelona, Spain and have been working for several Dutch and 
 </details>
 
 <details>
-  <summary>:zap: Education :books: </summary>
+  <summary> Education :books: </summary>
  
 ### IT Academy @[Barcelona Activa/Cibernarium](https://cibernarium.barcelonactiva.cat/es/it-academy) (2020)
  :books: In June, I started the FrontEnd Web Development Bootcamp at the IT Academy in Cybernarium, Barcelona Activa. Due to the Covid-19 pandemie, the course if fully remote. We did create a studygroup to practice and do have some work together projects. Git, XAMPP, MySQL, SQL Queries, HTML5, CSS3 (Flexbox, Grid, Animations), SASS, Bootstrap, JavaScript, React & Redux are the skills we are trained. We also get classes in Algorithm and Object Oriented Programming (OOP) in JavaScript.
