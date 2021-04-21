@@ -1,6 +1,7 @@
-### Hi :raising_hand: I'm Diana Vilé
+<h1 align="center">Hi 🙋, I'm Diana Vilé</h1>
+<h3 align="center">💻 A passionate Content Marketing Developer from Barcelona, Spain</h3>
 
-- :computer: I'm a freelance Frontend Web Developer with love for UX/UI design.
+- 🔭 I’m currently working on **portfolio**
 - :heart: I love to design prototypes, code, build websites and web applications.
 - :pencil: I enjoy [writing about coding](https://medium.com/@diana.vile).
 - :electric_plug: **My GOAL: work as a professional UX Engineer/Front-end Developer in a vibrant Tech company in Barcelona**.
@@ -37,15 +38,20 @@
 ### Contact me on:
 
 [<img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
+[<img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+[<img align="left" alt="dianavile |CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/>][codesandbox]
+[<img align="left" alt="dianavile |Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Social/dribbble.svg"/>][Dribble]
+  
 [linkedin]: https://www.linkedin.com/in/dianavile/
 [medium]: https://medium.com/@diana.vile
+[codesandbox]: https://codesandbox.io/u/dianavile
+[dribbble.com]: https://dribbble.com/https://dribbble.com/dianavile
+
 <br>
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Air signals and marine cables](https://medium.com/@diana.vile/air-signals-and-marine-cables-b83cf6f59c31)
@@ -55,7 +61,6 @@
 - [Everyday routines to explain algorithms flowcharts](https://medium.com/@diana.vile/everyday-routines-to-explain-algorithms-flowcharts-1b17a4415023)
 - [Let´s GIT it on- Git commands](https://medium.com/@diana.vile/let-s-git-it-on-why-you-need-to-know-version-control-as-a-software-developer-git-commands-ec9ecbc75dd4)
 <!-- BLOG-POST-LIST:END -->
-
 ➡️ [more blog posts...](https://medium.com/@diana.vile)
 
   <img align="left" alt="dianavile's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dianavile&show_icons=true&hide_border=true" />
