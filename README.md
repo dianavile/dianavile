@@ -28,15 +28,19 @@
 </p> 
  
 ### Contact me on:
-[<img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
-[<img align="left" alt="dianavile |CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/>][codesandbox]
-[<img align="left" alt="dianavile |Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/>][Dribble]
+ <a href="https://www.linkedin.com/in/dianavile/" target="_blank"> [<img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]</a>
+ <a href="https://babeljs.io/" target="_blank"> </a>
+ <a href="https://babeljs.io/" target="_blank"> </a>
+ <a href="https://babeljs.io/" target="_blank"> </a>
 
-[linkedin]: https://www.linkedin.com/in/dianavile/
+[<img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+[<img align="left" alt="dianavile | CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/>][codesandbox]
+[<img align="left" alt="dianavile | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/>][Dribble]
+
+[linkedin]: 
 [medium]: https://medium.com/@diana.vile
 [codesandbox]: https://codesandbox.io/u/dianavile
-[Dribbble.com]:(https://dribbble.com/dianavile)
+[dribbble.com]:(https://dribbble.com/dianavile)
 
 ###  :pencil: Blog Posts
 <!-- BLOG-POST-LIST:START -->
