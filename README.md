@@ -5,7 +5,7 @@
 - :heart: I love to design prototypes, code, build websites and web applications.
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
-- :camera: Experience 10+ years in Digital Marketing (SEO,Content Management) & TV-Journalism.
+- :camera: Experience 10+ years in Digital Marketing (SEO,Content Management) & TV-Journalism, 2,5 years in Coding.
 - :gem: Communications Science (Master), TV-reporting (Postdoc), webdevelopment, UX Design and Digital Marketing (Nanodegree).
 
 ### Languages and Tools:
