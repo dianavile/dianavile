@@ -8,17 +8,6 @@
 - :camera: Experience 10+ years in Digital Marketing (SEO,Content Management) & TV-Journalism.
 - :gem: Communications Science (Master), TV-reporting (Postdoc), webdevelopment, UX Design and Digital Marketing (Nanodegree).
 
-### Contact me on:
-[<img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
-[<img align="left" alt="dianavile |CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/>][codesandbox]
-[<img align="left" alt="dianavile |Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/>][Dribble]
-
-[linkedin]: https://www.linkedin.com/in/dianavile/
-[medium]: https://medium.com/@diana.vile
-[codesandbox]: https://codesandbox.io/u/dianavile
-[Dribbble.com]:(https://dribbble.com/dianavile)
-
 ### Languages and Tools:
 <p align="left"> 
  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -38,14 +27,23 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p> 
  
+### Contact me on:
+[<img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+[<img align="left" alt="dianavile |CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/>][codesandbox]
+[<img align="left" alt="dianavile |Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/>][Dribble]
+
+[linkedin]: https://www.linkedin.com/in/dianavile/
+[medium]: https://medium.com/@diana.vile
+[codesandbox]: https://codesandbox.io/u/dianavile
+[Dribbble.com]:(https://dribbble.com/dianavile)
 ### Sparetime: :parrot:
 - :clapper: I like to visit anything cultural.
 - :bicyclist: You can find me biking on a foldable bike, drinking a Chai Latte and walking in nature.
 - :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
 ---
 
-### 📕 Blog Posts
-- :pencil: I enjoy [writing about coding](https://medium.com/@diana.vile).
+###  :pencil: Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Air signals and marine cables](https://medium.com/@diana.vile/air-signals-and-marine-cables-b83cf6f59c31)
 - [CSS the Style of websites](https://medium.com/@diana.vile/css-the-style-of-websites-4294dfddfd97)
@@ -61,7 +59,7 @@
 
 <details>
   <summary> Experience: :gem: </summary>
-
+ 
 ### UX/UI consultor @[iCuida](https://www.icuida.barcelona/) (2020)
 :gem: Re-designing the MVP iCuida into a fully functioning digital product, together with a Project Manager, UX/UI designer and Fullstack web developer.
 Responsible for mobile and desktop design and content.
