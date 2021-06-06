@@ -2,7 +2,7 @@
 <h3 align="center">💻 A passionate Content Marketing Developer from Barcelona, Spain</h3>
 
 - 🔭 I’m currently working at <a href="https://www.code-sherpas.rocks/" target="_blank">codesherpas</a>.
-- :heart: I love to design prototypes, code, build websites and web applications.
+- :heart: I love to research, design wireframes and prototypes, to code, build websites and web applications.
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 - :camera: Experience 15+ years in Digital Marketing (SEO,Content Management) & TV-Journalism, 2+ years in Coding.
