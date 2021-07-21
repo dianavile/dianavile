@@ -44,7 +44,7 @@
 ### Sparetime: :parrot:
 - :clapper: I like to visit anything cultural.
 - :bicyclist: Find me biking on a foldable bike, running in the park, reading a book, drinking a Chai Latte on a terrace or walking in the mountains.
-- :languges: Interested in communicating with me: Talk, write or speak with me in Dutch, English, Spanish and Catalan is a great choice. 
+- :language: Interested in communicating with me: Talk, write or speak with me in :dutch: Dutch, English, Spanish and Catalan is a great choice. 
 - :pencil: Although I can read some in German, Frans, Norsk, Checz and Bahasa Indonesia, do ask me to speak if, for it will not make any sense. 
 - :tulip: Enjoying familylife and learning new things related to UX design and webdevelopment keeps me alive and kicking.
 ---
