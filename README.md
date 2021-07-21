@@ -43,10 +43,10 @@
 
 ### Sparetime: :parrot:
 - :clapper: I like to visit anything cultural.
-- :bicyclist: You can find me biking on a foldable bike, drinking a Chai Latte and walking in the mountains.
-- 🚩: Talk, write or speak with me in Dutch, English, Spanish and Catalan to communicate actively. 
-- :pencil: I can read in German, Frans, Norsk, Tzech and Bahasa Indonesia, but do not ask to talk, for it will not make any sense. 
-- :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
+- :bicyclist: Find me biking on a foldable bike, running in the park, reading a book, drinking a Chai Latte on a terrace or walking in the mountains.
+- :languges: Interested in communicating with me: Talk, write or speak with me in Dutch, English, Spanish and Catalan is a great choice. 
+- :pencil: Although I can read some in German, Frans, Norsk, Checz and Bahasa Indonesia, do ask me to speak if, for it will not make any sense. 
+- :tulip: Enjoying familylife and learning new things related to UX design and webdevelopment keeps me alive and kicking.
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianavile&show_icons=true&locale=en&layout=compact" alt="dianavile" /></p>
 
