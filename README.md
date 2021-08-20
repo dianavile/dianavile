@@ -1,11 +1,11 @@
 <h1 align="center">Hi 🙋, I'm Diana Vilé</h1>
-<h3 align="center">💻 A passionate Digital Professional from Barcelona, Spain</h3>
+<h3 align="center">💻 A passionate Digital Communication Professional from Barcelona, Spain</h3>
 
 - 🔭 I’m currently working at <a href="https://www.code-sherpas.rocks/" target="_blank">codesherpas</a> as head of Digital Communications and Co-founder.
 - :heart: I love to research, design wireframes and prototypes, to code, build websites and web applications and bring them to the market.
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
-- :camera: Experience 15+ years in Digital Marketing (SEO,Content Management) & TV-Journalism, 2+ years in Coding & UX Design.
+- :camera: Experience in Digital Communication (Online Marketing, SEO,Content Management & Journalism-15+ years), UX/UI design & Coding HTML, CSS, JS, React (2+ years).
 - :gem: Communications Science (Master), TV-reporting (Postdoc), webdevelopment, UX Design and Digital Marketing (Nanodegree).
 
 ### Languages and Tools:
