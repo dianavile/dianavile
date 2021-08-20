@@ -43,9 +43,9 @@
 ### Sparetime: :parrot:
 - :clapper: I like to visit anything cultural.
 - :bicyclist: Find me biking on a foldable bike, running in the park, reading a book, drinking a Chai Latte on a terrace or walking in the mountains.
-- 🤟 Interested in communicating with me: Talk, write or speak with me in ** 🇳🇱, 🇬🇧, 🇪🇸 and cat** is a great choice. 
-- 💬 Although I can read some ** 🇩🇪, 🇫🇷, 🇳🇴, 🇨🇿 and 🇮🇩**, don't ask me to speak it, for it will not make any sense. 
-- :tulip: Enjoying familylife and learning new things related to UX design and webdevelopment keeps me alive and kicking.
+- 🤟 Interested in communicating with me: Talk, write or speak with me in **Dutch, English, Spanish and Catalan** is a great choice. 
+- 💬 Although I can read some **German, French, Norwegian and Bahasa Indonesia**, don't ask me to speak it, for it will not make any sense. 
+- :tulip: Enjoying familylife, camping, getting lost in nature, exercising and learning new things related to UX design and webdevelopment keeps me alive and kicking.
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianavile&show_icons=true&locale=en&layout=compact" alt="dianavile" /></p>
 
