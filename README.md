@@ -39,7 +39,7 @@
 - [Everyday routines to explain algorithms flowcharts](https://medium.com/@diana.vile/everyday-routines-to-explain-algorithms-flowcharts-1b17a4415023)
 - [Let´s GIT it on- Git commands](https://medium.com/@diana.vile/let-s-git-it-on-why-you-need-to-know-version-control-as-a-software-developer-git-commands-ec9ecbc75dd4)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://medium.com/@diana.vile)
+➡️ [more blog posts...](https://diana-vile.medium.com/)
 
 ### Sparetime: :parrot:
 - :clapper: I like to visit anything cultural.
