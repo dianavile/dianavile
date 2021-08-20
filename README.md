@@ -6,7 +6,7 @@
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 - :camera: Experience in Digital Communication (Online Marketing, SEO,Content Management & Journalism 15+y), UX/UIdesign & Coding (2+y).
-- :gem: Communications Science (Master), TV-reporting (Postdoc), webdevelopment, UX Design and Digital Marketing (Nanodegree).
+- :gem: Communications Science (Master), TV-reporting (Postdoc), Web Development, UX Design and Digital Marketing (Nanodegree).
 
 ### Languages and Tools:
 <p align="left"> 
