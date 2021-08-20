@@ -5,7 +5,7 @@
 - :heart: I love to research, design wireframes and prototypes, to code, build websites and web applications and bring them to the market.
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
-- :camera: Experience in Digital Communication (Online Marketing, SEO,Content Management & Journalism-15+ years), UX/UI design & Coding (2+ years).
+- :camera: Experience in Digital Communication (Online Marketing, SEO,Content Management & Journalism 15+yrs), UX/UI design & Coding (2+yrs).
 - :gem: Communications Science (Master), TV-reporting (Postdoc), webdevelopment, UX Design and Digital Marketing (Nanodegree).
 
 ### Languages and Tools:
