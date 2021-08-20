@@ -27,7 +27,8 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p> 
 
-### <a href="https://www.linkedin.com/in/dianavile/" target="_blank"> <img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://medium.com/@diana.vile" target="_blank"> <img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a><a href="https://codesandbox.io/u/dianavile" target="_blank"><img align="left" alt="dianavile | CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a><a href="https://dribbble.com/dianavile" target="_blank"><img align="left" alt="dianavile | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/></a> :computer: Contact me on: 
+### :computer: Contact me on: 
+<a href="https://www.linkedin.com/in/dianavile/" target="_blank"> <img align="left" alt="dianavile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://medium.com/@diana.vile" target="_blank"> <img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a><a href="https://codesandbox.io/u/dianavile" target="_blank"><img align="left" alt="dianavile | CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a><a href="https://dribbble.com/dianavile" target="_blank"><img align="left" alt="dianavile | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/></a> 
 ---
 ###  :pencil: Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -38,7 +39,6 @@
 - [Everyday routines to explain algorithms flowcharts](https://medium.com/@diana.vile/everyday-routines-to-explain-algorithms-flowcharts-1b17a4415023)
 - [Let´s GIT it on- Git commands](https://medium.com/@diana.vile/let-s-git-it-on-why-you-need-to-know-version-control-as-a-software-developer-git-commands-ec9ecbc75dd4)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://diana-vile.medium.com/)
 
 ### Sparetime: :parrot:
 - :clapper: I like to visit anything cultural.
