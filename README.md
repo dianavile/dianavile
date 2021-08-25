@@ -45,7 +45,7 @@
 - :bicyclist: Find me biking on a foldable bike, running in the park, reading a book, drinking a Chai Latte on a terrace or walking in the mountains.
 - 🤟 Interested in communicating with me: Talk, write or speak with me in **Dutch, English, Spanish and Catalan** is a great choice. 
 - 💬 Although I can read some **German, French, Italian, Norwegian, Czech & Indonesian**, let me speaking it will not make any sense. 
-- :tulip:Familylife, camping, nature, books, exercising and learning new skills related to Content, UX design and webdevelopment keep me alive.
+- :tulip:Familylife, camping, nature, books, exercising and learning new skills of Content, UX design and webdevelopment keep me alive.
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianavile&show_icons=true&locale=en&layout=compact" alt="dianavile" /></p>
 
