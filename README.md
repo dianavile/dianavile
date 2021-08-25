@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋, I'm Diana Vilé</h1>
 <h3 align="center">💻 A passionate Digital Communication Professional from Barcelona, Spain</h3>
 
-- 🔭 I currently work at <a href="https://www.code-sherpas.rocks/" target="_blank">codesherpas</a> as head of Digital Communications and Co-founder.
+- 🔭 I currently work at <a href="https://www.code-sherpas.rocks/" target="_blank">Code Sherpas</a> as head of Digital Communications and Co-founder.
 - :heart: I love to research, design wireframes and prototypes, to code, build websites and web applications and bring them to the market.
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
