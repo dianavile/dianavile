@@ -2,7 +2,7 @@
 <h3 align="center">💻 A passionate Digital Communication Professional from Barcelona, Spain</h3>
 
 - 🔭 I currently work at <a href="https://www.code-sherpas.rocks/" target="_blank">Code Sherpas</a> as Head of Digital Communications.
-- :heart: I love to research, design wireframes and prototypes, to code, build websites and web applications and bring them to the market.
+- :heart: I love to research, write content, design wireframes and prototypes, to build websites and web applications and bring them to the market.
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 - :camera: Experience in Digital Communication (Online Marketing, SEO,Content Management & Journalism 15+y), UX/UIdesign & Coding(3+y).
