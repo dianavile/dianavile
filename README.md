@@ -30,8 +30,7 @@
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
- 
+---
 ### :computer: Contact me on: 
 <a href="https://medium.com/@diana.vile" target="_blank"> <img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a><a href="https://codesandbox.io/u/dianavile" target="_blank"><img align="left" alt="dianavile | CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a><a href="https://dribbble.com/dianavile" target="_blank"><img align="left" alt="dianavile | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/></a> 
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianavile/) 
