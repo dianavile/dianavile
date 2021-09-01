@@ -51,7 +51,7 @@
 - 💬 Although I can read some **German, French, Italian, Norwegian, Czech & Indonesian**, let me speaking it will not make any sense. 
 - :tulip:Familylife, camping, nature, books, exercising and learning new skills of Content, UX design and webdevelopment keep me alive.
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianavile&show_icons=true&locale=en&layout=compact" alt="dianavile" /></p>
-![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianavile&show_icons=true&theme=default)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klaryon&layout=compact)](https://github.com/klaryon/github-readme-stats)
 
+![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianavile&show_icons=true&theme=default)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dianavile&layout=compact)](https://github.com/dianavile/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianavile&show_icons=true&locale=en&layout=compact" alt="dianavile" /></p>
