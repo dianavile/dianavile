@@ -31,16 +31,6 @@
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
- 
-### Blog Posts:  :pencil:
-<!-- BLOG-POST-LIST:START -->
-- [Air signals and marine cables](https://medium.com/@diana.vile/air-signals-and-marine-cables-b83cf6f59c31)
-- [CSS the Style of websites](https://medium.com/@diana.vile/css-the-style-of-websites-4294dfddfd97)
-- [HTML the structure of websites](https://medium.com/@diana.vile/html-the-structure-of-websites-a5ee03ef1bf0)
-- [Webbrowser. behind the scenes](https://medium.com/@diana.vile/web-browser-behind-the-scenes-806251dbb67d)
-- [Everyday routines to explain algorithms flowcharts](https://medium.com/@diana.vile/everyday-routines-to-explain-algorithms-flowcharts-1b17a4415023)
-- [Let´s GIT it on- Git commands](https://medium.com/@diana.vile/let-s-git-it-on-why-you-need-to-know-version-control-as-a-software-developer-git-commands-ec9ecbc75dd4)
-<!-- BLOG-POST-LIST:END -->
 
 ### Sparetime: :parrot:
 - :clapper: I like to visit anything cultural.
