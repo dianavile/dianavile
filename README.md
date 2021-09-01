@@ -24,8 +24,6 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p> 
 
- ---
-<br>
  
  ### Software & Technologies:
  <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -33,9 +31,6 @@
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
----
-<br>
- 
  
 ### :computer: Contact me on: 
 <a href="https://medium.com/@diana.vile" target="_blank"> <img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a><a href="https://codesandbox.io/u/dianavile" target="_blank"><img align="left" alt="dianavile | CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a><a href="https://dribbble.com/dianavile" target="_blank"><img align="left" alt="dianavile | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/></a> 
