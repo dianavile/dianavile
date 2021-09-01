@@ -4,6 +4,8 @@
 - 🔭 I work at <a href="https://www.code-sherpas.rocks/" target="_blank">Code Sherpas</a> as Head of Digital Communications.
 - :heart: I love to research, write content, design wireframes and prototypes, to build websites and web applications and promote them.
 - :octocat: Always open to collaborate with digital content creators.
+- :gem:  Experience in Digital Communication (Online Marketing, SEO,Content Management & Journalism), UX/UI Design & Frontend Web Development.
+- 
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 - :camera: Experience in Digital Communication (Online Marketing, SEO,Content Management & Journalism 15+y), UX/UIdesign & Coding(3+y).
 - :gem: Communications Science (Master), TV-reporting (Postdoc), Web Development, UX Design and Digital Marketing (Nanodegree).
