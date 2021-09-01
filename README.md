@@ -3,8 +3,8 @@
 
 - 🔭 I work at <a href="https://www.code-sherpas.rocks/" target="_blank">Code Sherpas</a> as Head of Digital Communications.
 - :heart: I love to research, write content, design wireframes and prototypes, to build websites and web applications and promote them.
+- :gem: Experienced in Digital Communication (Online Marketing, SEO,Content Management & Journalism), UX/UI Design & Frontend Dev.
 - :octocat: Always open to collaborate with digital content creators.
-- :gem: Experience in Digital Communication (Online Marketing, SEO,Content Management & Journalism), UX/UI Design & Frontend Dev.
 
 ### :computer: Contact me on: 
  <a href="https://diana-vile.medium.com/" target="_blank"> <img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
