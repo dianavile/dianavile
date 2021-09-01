@@ -33,13 +33,7 @@
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 ---
-### Sparetime: :parrot:
-- :clapper: I like to visit anything cultural.
-- :bicyclist: Find me biking on a foldable bike, running in the park, reading a book, drinking a Chai Latte on a terrace or walking in the mountains.
-- 🤟 Interested in communicating with me: Talk, write or speak with me in **Dutch, English, Spanish and Catalan** is a great choice. 
-- 💬 Although I can read some **German, French, Italian, Norwegian, Czech & Indonesian**, let me speaking it will not make any sense. 
-- :tulip:Familylife, camping, nature, books, exercising and learning new skills of Content, UX design and webdevelopment keep me alive.
----
+
 
 ![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianavile&show_icons=true&theme=default)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dianavile&layout=compact)](https://github.com/dianavile/github-readme-stats)
