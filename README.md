@@ -3,7 +3,7 @@
 
 - 💻 works at <a href="https://careersonair.withgoogle.com/events/insidegtech" target="_blank">G-Tech</a> as Tier1 Agent.
 - :heart: researches, writes content, designs wireframes and prototypes, builds websites and web applications.
-- :gem: Experienced in Digital Communication (Online Marketing, SEO,Content Management & Journalism), UX/UI Design & Frontend Dev.
+- :gem: Experienced in Digital Communication, UX/UI Design & Frontend Dev.
 - :octocat: Always open to collaborate with digital content creators.
 
 ### :computer: Contact me on: 
