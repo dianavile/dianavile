@@ -1,8 +1,8 @@
 <h1 align="center" Hi, I'm Diana Vilé</h1>
 <h3 align="center"> A passionate Digital Communication Professional from Barcelona, Spain</h3>
 
-- 💻 I work at <a href="https://careersonair.withgoogle.com/events/insidegtech" target="_blank">G-Tech</a> as Tier1 Agent.
-- :heart: I love to research, write content, design wireframes and prototypes, to build websites and web applications and promote them.
+- 💻 works at <a href="https://careersonair.withgoogle.com/events/insidegtech" target="_blank">G-Tech</a> as Tier1 Agent.
+- :heart: researches, writes content, designs wireframes and prototypes, builds websites and web applications.
 - :gem: Experienced in Digital Communication (Online Marketing, SEO,Content Management & Journalism), UX/UI Design & Frontend Dev.
 - :octocat: Always open to collaborate with digital content creators.
 
