@@ -1,7 +1,7 @@
 <h1 align="center" Hi, I'm Diana Vilé</h1>
 <h3 align="center"> A Digital Communication Professional in Barcelona, Spain</h3>
 
-- ✍🏻 works @ <a href="https://www.xplore.marketing/" target="_blank">xplore Digital</a> as Content Marketing Specialist.                        
+- ✍🏻 works @ <a href="https://www.xplore.marketing/" target="_blank">xplore Digital</a> as Content Marketing Consultant.                        
 - 💻 worked @ <a href="https://careersonair.withgoogle.com/events/insidegtech" target="_blank">G-Tech</a> as Tier1 Agent.
 - :heart: researches, writes content, designs wireframes and prototypes, builds websites and web applications.
 - :gem: Experienced in Digital Communication, UX/UI Design & Frontend Dev.
