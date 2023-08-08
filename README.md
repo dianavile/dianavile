@@ -1,7 +1,7 @@
 <h1 align="center" Hi, I'm Diana Vilé</h1>
 <h3 align="center"> A Digital Marketing Communication Consultant in Barcelona, Spain</h3>
 
--  is <a href="https://wtm.advocu.com/home/ambassadors/64c7763b78f59a15a49f900a" target="_blank"> Women Techmaker Ambassador</a> ![wtm-logo_45](https://github.com/dianavile/dianavile/assets/25930085/3380a7e2-8944-4522-94c8-948e88255a91)@Google.   
+-  is a <a href="https://wtm.advocu.com/home/ambassadors/64c7763b78f59a15a49f900a" target="_blank"> Women Techmaker Ambassador</a> @Google![wtm-logo](https://github.com/dianavile/dianavile/assets/25930085/3380a7e2-8944-4522-94c8-948e88255a91).   
 - ✍🏻 works @ <a href="https://www.xplore.marketing/" target="_blank">Xplore Digital</a> as Digital Marketing Communication Consultant.                        
 - 💻 worked @ <a href="https://careersonair.withgoogle.com/events/insidegtech" target="_blank">G-Tech</a> as Tier1 Agent.
 - :heart: researches, writes content, designs wireframes and prototypes, builds websites and web applications.
