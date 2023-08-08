@@ -4,8 +4,8 @@
   <li>✍🏻 working @ <a href="https://www.xplore.marketing/" target="_blank">Xplore Digital</a> as Digital Marketing Communication Consultant.</li>
   <li>💗 researches, write content, designs wireframes and prototypes, and builds websites and web applications.</li>
   <li>💎 Experienced in Digital Communication, UX/UI Design & Frontend Dev.</li>
-  <li>:octocat: Always open to collaborate with digital content creators.</li>
-  <li>🧘&🏃‍♀️ a little bit of yoga and running in my sparetime. </li>
+  <li>:octocat: Always open to collaborating with digital content creators.</li>
+  <li>🧘&🏃‍♀️ a little bit of yoga and running here and there. </li>
 </ul>
 
 ### :computer: Contact me on: 
