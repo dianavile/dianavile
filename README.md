@@ -12,7 +12,7 @@
 
 ### :computer: Contact me on: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianavile/) 
-[![Medium]](https://diana-vile.medium.com/)(https://diana-vile.medium.com/)
+[![Medium]](https://diana-vile.medium.com/)
 
 ### Languages and Tools:
 <p align="left"> 
