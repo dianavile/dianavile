@@ -1,12 +1,18 @@
 ### About me: 
 <h1 align="center" Hi, I'm Diana Vilé</h1>
 <h3 align="center"> A Digital Marketing Communication Consultant in Barcelona, Spain</h3>
-👩🏻‍🔬 a <a href="https://wtm.advocu.com/home/ambassadors/64c7763b78f59a15a49f900a" target="_blank"> Women Techmaker Ambassador</a> @Google.   
-✍🏻 working @ <a href="https://www.xplore.marketing/" target="_blank">Xplore Digital</a> as Digital Marketing Communication Consultant.                        
-💻 worked for @ <a href="https://careersonair.withgoogle.com/events/insidegtech" target="_blank">G-Tech</a> as Tier1 Agent.
-💗 researches, writes content, designs wireframes and prototypes, builds websites and web applications.
-💎 Experienced in Digital Communication, UX/UI Design & Frontend Dev.
-:octocat: Always open to collaborate with digital content creators.
+<ul>
+ <li>👩🏻‍🔬 a <a href="https://wtm.advocu.com/home/ambassadors/64c7763b78f59a15a49f900a" target="_blank"> Women Techmaker Ambassador</a> @Google.</li>
+  <li>✍🏻 working @ <a href="https://www.xplore.marketing/" target="_blank">Xplore Digital</a> as Digital Marketing Communication Consultant.</li>
+  <li>💗 researches, write content, designs wireframes and prototypes, and builds websites and web applications.</li>
+  <li>💎 Experienced in Digital Communication, UX/UI Design & Frontend Dev.</li>
+  <li>:octocat: Always open to collaborate with digital content creators.</li>
+  <li>🧘&🏃‍♀️ a little bit of yoga and running in my sparetime. </li>
+</ul>
+
+                     
+
+
 
 ### :computer: Contact me on: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianavile/) 
