@@ -1,4 +1,3 @@
-### About me: 
 <h1 align="center" Hi, I'm Diana Vilé</h1>
 <h3 align="center"> A Digital Marketing Communication Consultant in Barcelona, Spain</h3>
 <ul>
