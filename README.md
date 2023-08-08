@@ -1,4 +1,3 @@
-<h1 align="center" Hi, I'm Diana Vilé</h1>
 <h3 align="center"> A Digital Marketing Communication Consultant in Barcelona, Spain</h3>
 <ul>
  <li>👩🏻‍🔬 a <a href="https://wtm.advocu.com/home/ambassadors/64c7763b78f59a15a49f900a" target="_blank"> Women Techmaker Ambassador</a> @Google.</li>
